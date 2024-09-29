@@ -1,0 +1,244 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 100%;
+}
+
+.ff {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(WhatsApp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ff h1 {
+    opacity: 0.7;
+    font-size: 50px;
+    margin-bottom: 8px;
+}
+
+.ff p {
+    color: rgb(196, 192, 192);
+    padding-left: 300px;
+    width: 750px;
+    font-size: 18px;
+}
+
+button {
+    width: 250px;
+    height: 60px;
+    color: white;
+    margin: 15px;
+    border-radius: 44px;
+    font-size: large;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: rgb(230, 228, 228);
+}
+
+.button1 {
+    background-color: rgb(4, 223, 223);
+    border-color: rgb(4, 223, 223);
+    box-shadow: rgb(4, 223, 223);
+}
+
+.button2 {
+    background-color: rgba(51, 51, 245, 0.466);
+    box-shadow: rgba(51, 51, 245, 0.466);
+    border-color: rgba(51, 51, 245, 0.466);
+}
+
+.div {
+    margin: 90px;
+}
+
+.div h1 {
+    opacity: 0.8;
+    font-size: 30px;
+    color: rgb(39, 36, 36);
+}
+
+.div p {
+    color: rgb(163, 159, 159);
+    width: 770px;
+    padding-left: 20%;
+    font-size: 20px;
+}
+
+.pic {
+    display: flex;
+}
+
+.pic img {
+    width: 600px;
+}
+
+.nn {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5px;
+}
+
+.nn h1 {
+    color: rgb(73, 66, 66);
+}
+
+.nn p {
+    color: rgb(163, 159, 159);
+    font-size: 16px;
+    padding-left: 80px;
+    margin: 0;
+    width: 364px;
+}
+
+section {
+    padding: 0;
+    margin: 0;
+}
+
+.uu {
+    opacity: 0.8px;
+    font-size: 30px;
+    color: rgb(73, 66, 66);
+}
+
+.wego {
+    color: rgb(207, 198, 198);
+    font-size: 15px;
+}
+
+.photo {
+    width: 800px;
+    margin: 100px;
+}
+
+.jj {
+    margin: 10px;
+    color: rgb(37, 37, 37);
+    opacity: 0.9;
+}
+
+.p-2 {
+    color: rgb(182, 178, 178);
+    margin: 20px;
+}
+
+.ph {
+    display: flex;
+    padding-left: 150px;
+    margin-left: 80px;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 44px;
+}
+
+.ph p {
+    width: 340px;
+    padding: 3px;
+    color: rgb(182, 178, 178);
+}
+
+.ph h1 {
+    color: rgb(63, 59, 59);
+}
+
+.ph img {
+    width: 15%;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    margin: 55px;
+    padding-left: 160px;
+    font-size: 1px;
+}
+
+.al h1 {
+    opacity: 0.9;
+    color: rgb(63, 59, 59);
+    font-size: 25px;
+}
+
+.al p {
+    color: rgb(182, 178, 178);
+    padding-left: 380px;
+    width: 39%;
+}
+
+.button-2 {
+    width: 600px;
+    height: 30px;
+    color: white;
+    margin-left: 120px;
+    border-radius: 44px;
+    font-size: large;
+    display: flex;
+    padding-left: 280px;
+}
+
+.button-2:hover {
+    background-color: rgb(230, 228, 228);
+}
+
+.hh {
+    background-color: rgb(4, 223, 223);
+    border-color: rgb(4, 223, 223);
+    box-shadow: rgb(4, 223, 223);
+}
+
+.oo {
+    background-color: rgba(51, 51, 245, 0.466);
+    box-shadow: rgba(51, 51, 245, 0.466);
+    border-color: rgba(51, 51, 245, 0.466);
+}
+
+.footer {
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin: 40px;
+    text-align: center;
+    background-color: rgb(214, 209, 209);
+    width: auto;
+    height: 150px;
+}
+
+.img-last {
+    width: 4%;
+    padding-left: 170px;
+    background-color: rgb(214, 209, 209);
+    color: rgb(214, 209, 209);
+}
+
+.footer {
+    display: flex;
+}
+
+.ul-1 {
+    color: rgb(163, 159, 159);
+    text-decoration: none;
+    text-align: center;
+    padding-left: 200px;
+}
+
+.asdf {
+    color: rgb(163, 159, 159);
+    text-decoration: none;
+    padding-left: 160px;
+}
+
+.ul-3 {
+    color: rgb(163, 159, 159);
+    text-decoration: none;
+    padding-left: 100px;
+}
+
+.footer-3 {
+    padding-left: 6%;
+}
